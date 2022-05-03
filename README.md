@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: Reading Deep Learning For Coders along with commentary from [ohmeow](https://ohmeow.com/) & doing AI Quizzes (Chapters1-11). Also uploading models to [fastai huggingface](https://huggingface.co/fastai)
+- 🔭 Uploading models to [fastai huggingface](https://huggingface.co/fastai) and creating cool new spaces.
 - 👾Today I learned : [check it out](https://til.kurianbenoy.com/)
 
 <!--
