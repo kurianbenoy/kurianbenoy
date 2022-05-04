@@ -1,8 +1,14 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <a href="https://www.kurianbenoy.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 😄 Pronouns: He/Him
 - 🔭 Uploading models to [fastai huggingface](https://huggingface.co/fastai) and creating cool new spaces.
 - 👾Today I learned : [check it out](https://til.kurianbenoy.com/)
+
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=kurianbenoy&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kurianbenoy&hide_border=true" />
+</p>
+
 
 <!--
 **kurianbenoy/kurianbenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
