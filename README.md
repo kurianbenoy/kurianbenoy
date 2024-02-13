@@ -3,6 +3,8 @@
 - 😄 Pronouns: He/Him
 - [Website](https://kurianbenoy.com/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 <!--
 **kurianbenoy/kurianbenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
