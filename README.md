@@ -5,6 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kurianbenoy&show_icons=true&include_all_commits=true&count_private=true"/>
 <!--
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy)](https://git.io/streak-stats)
