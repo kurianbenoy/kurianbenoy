@@ -7,13 +7,16 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kurianbenoy&show_icons=true&include_all_commits=true&count_private=true"/>
-<!--
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy)](https://git.io/streak-stats)
 
 ### Hit Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/kurianbenoy/count.svg)
+
+<!--
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy)](https://git.io/streak-stats)
+
+
 
 **kurianbenoy/kurianbenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
