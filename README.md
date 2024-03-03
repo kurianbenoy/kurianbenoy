@@ -1,5 +1,6 @@
 ## Hi there <a href="https://www.kurianbenoy.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+- I am an ML Engineer with 5 years of experience working in a Tech startup, Singapore.
 - 😄 Pronouns: He/Him
 - [Website](https://kurianbenoy.com/)
 
@@ -9,6 +10,11 @@
 <!--
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy)](https://git.io/streak-stats)
+
+### Hit Counter
+
+![Visitor Count](https://profile-counter.glitch.me/kurianbenoy/count.svg)
+
 **kurianbenoy/kurianbenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
