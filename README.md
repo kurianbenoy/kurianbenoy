@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him
 - [Website](https://kurianbenoy.com/)
 
+I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നിന്ന്  തന്നാൽ ആയത്". In English it translates to this meaning -> "even a small rabbit does what it can do to the maximum potential".
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kurianbenoy&show_icons=true&include_all_commits=true&count_private=true"/>
