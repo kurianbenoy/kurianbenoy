@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - [Website](https://kurianbenoy.com/)
 
-I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നിന്ന്  തന്നാൽ ആയത്". In English it translates to this meaning -> "even a small rabbit does what it can do to the maximum potential".
+I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നിന്നു തന്നാൽ ആവത്". In English it translates to this meaning - "A small rabbit does what it can do it's best of abilities, similarly we should also strive to do everything to best of our abilities.".
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
