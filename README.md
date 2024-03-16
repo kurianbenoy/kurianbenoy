@@ -5,7 +5,7 @@
 - I have contributed to Open source projects like Keras, Transformers, fast.ai etc.
 - Creator of Indic Subtitler and Malayalam voice models like Vegam-whisper, MalWhisper etc. Maintains [whisper-normalizer](https://github.com/kurianbenoy/whisper_normalizer) package which has monthly 100,000+ downloads.
 - Pursuing MTECH in AI & Data science @ IIIT, Kottayam.
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him
 - [Website](https://kurianbenoy.com/)
 
 I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നിനും തന്നാൽ ആവത്". In English it translates to this meaning - "A small rabbit does what it can do it's best of abilities, similarly we should also strive to do everything to best of our abilities.".
