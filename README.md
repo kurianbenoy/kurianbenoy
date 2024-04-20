@@ -10,7 +10,7 @@
 
 I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നിനും തന്നാലാവത്". In English it translates to this meaning - "Even a squirrel does what it can do it's best of abilities, similarly we should also strive to do everything to best of our abilities.".
 
-Smash that donate button like a true superstar, your contribution for my work by buying me a coffee would be absolutely pixel-perfect amazing. [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-green.svg)](https://www.buymeacoffee.com/kurianbkk8)
+Smash that donate button like a true superstar, your contribution for my work by buying me a coffee would be absolutely pixel-perfect amazing. [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-green.svg)](https://www.buymeacoffee.com/kurianbenoy2)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
