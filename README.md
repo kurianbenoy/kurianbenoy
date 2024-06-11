@@ -3,8 +3,7 @@
 - I am an ML Engineer with 4 years of experience.
 - Speaker in International conferences like FOSSASIA Summit, Pycon India, Tensorflow Usergroup India summit, DebUtsav etc multiple times.
 - I have contributed to Open source projects like Keras, Transformers, fast.ai etc.
-- Creator of [Indic Subtitler website](https://indicsubtitler.in) and Malayalam voice models like Vegam-whisper, MalWhisper etc. Maintains [whisper-normalizer](https://github.com/kurianbenoy/whisper_normalizer) package which has till now 150,000+ downloads.
-- Pursuing MTECH in AI & Data science @ IIIT, Kottayam.
+- Creator of [Indic Subtitler website](https://indicsubtitler.in) and Malayalam voice models like Vegam-whisper, MalWhisper etc. Maintains [whisper-normalizer](https://github.com/kurianbenoy/whisper_normalizer) package which has till now 350,000+ downloads.
 - Pronouns: He/Him
 - [Website](https://kurianbenoy.com/)
 
