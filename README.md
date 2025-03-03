@@ -10,8 +10,6 @@
 I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നിനും തന്നാലാവത്". In English it translates to this meaning - "Even a squirrel does what it can do it's best of abilities, similarly we should also strive to do everything to best of our abilities.".
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kurianbenoy&show_icons=true&include_all_commits=true&count_private=true"/>
 
 ### Hit Counter
