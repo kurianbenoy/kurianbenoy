@@ -12,11 +12,6 @@ I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നി�
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kurianbenoy&show_icons=true&include_all_commits=true&count_private=true"/>
 
-### Hit Counter
-
-![Visitor Count](https://profile-counter.glitch.me/kurianbenoy/count.svg)
-
-<!--
+## Github Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy)](https://git.io/streak-stats)
--->
