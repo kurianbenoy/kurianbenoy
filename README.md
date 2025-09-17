@@ -17,3 +17,5 @@ I believe in the old Malayalam proverb, "അണ്ണാൻ കുന്നി�
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&locale=hi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurianbenoy&locale=kn&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
