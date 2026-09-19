@@ -24,7 +24,7 @@ I enjoy sharing what I learn and meeting fellow builders. I've spoken at PyCon I
 - [Kaggle](https://www.kaggle.com/kurianbenoy)
 - [Email](mailto:kurian.bkk@gmail.com)
 
-> “അണ്ണാൻ കുന്നിനും തന്നാലാവത്”
+> “അണ്ണാൻ കുഞ്ഞിനും തന്നാലാവത്”
 >
 > A Malayalam proverb: even a squirrel does what it can. I take it as a reminder to do my best with the abilities I have.
 
