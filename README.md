@@ -1,4 +1,4 @@
-lo# Hi, I'm Kurian Benoy 👋
+# Hi, I'm Kurian Benoy 👋
 
 I'm an ML Engineer working across machine learning, data, Python, and developer tools.
 
