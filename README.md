@@ -1,4 +1,4 @@
-# Hi, I'm Kurian Benoy 👋
+lo# Hi, I'm Kurian Benoy 👋
 
 I'm an ML Engineer working across machine learning, data, Python, and developer tools.
 
@@ -20,7 +20,6 @@ I enjoy sharing what I learn and meeting fellow builders. I've spoken at PyCon I
 - [Website](https://kurianbenoy.org/)
 - [GitHub](https://github.com/kurianbenoy)
 - [LinkedIn](https://linkedin.com/in/kurianbenoy)
-- [YouTube](https://www.youtube.com/@kurianbenoy2)
 - [Kaggle](https://www.kaggle.com/kurianbenoy)
 - [Email](mailto:kurian.bkk@gmail.com)
 
