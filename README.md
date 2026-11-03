@@ -6,7 +6,7 @@ I'm an ML Engineer working across machine learning, data, Python, and developer 
 
 - Creator of [Indic Subtitler](https://indicsubtitler.in), making subtitle generation more accessible across Indian languages.
 - Builder of Malayalam speech models, including **Vegam-whisper** and **MalWhisper**.
-- Maintainer of [whisper-normalizer](https://github.com/kurianbenoy/whisper_normalizer), a text-normalization package with more than 5 million downloads.
+- Maintainer of [whisper-normalizer](https://github.com/kurianbenoy/whisper_normalizer), a text-normalization package with more than 7 million downloads.
 - Open-source contributor to Swathanthra Malayalam Computing, FOSSASIA, Keras, DVC, Hugging Face, fast.ai, and CloudCV.
 
 I work across Python, machine learning, data, and developer tools—with a soft spot for projects that make capable technology more useful in the languages people speak every day.
